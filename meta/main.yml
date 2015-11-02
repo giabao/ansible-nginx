@@ -2,7 +2,7 @@
 
 galaxy_info:
   author: Gia Bao
-  description: Role to install Oracle Java.
+  description: Role to nginx.
   company: sandinh.com
   license: BSD
   min_ansible_version: 1.9.3
