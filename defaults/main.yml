@@ -1,0 +1,3 @@
+---
+# use mainline or stable channel
+nginx_mainline: true

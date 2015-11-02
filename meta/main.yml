@@ -1,0 +1,25 @@
+---
+
+galaxy_info:
+  author: Gia Bao
+  description: Role to install Oracle Java.
+  company: sandinh.com
+  license: BSD
+  min_ansible_version: 1.9.3
+  platforms:
+    - name: CentOS
+      versions:
+        - all
+        - 5
+        - 7
+        - 6
+    - name: RedHat
+      versions:
+        - all
+        - 5
+        - 7
+        - 6
+  galaxy_tags:
+    - nginx
+
+dependencies: []
