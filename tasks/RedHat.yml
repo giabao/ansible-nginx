@@ -3,7 +3,7 @@
   become: yes
   template:
     src: nginx.repo.j2
-    dest: /etc/yum.repo.d/nginx.repo
+    dest: /etc/yum.repos.d/nginx.repo
 
 - name: install nginx
   become: yes
